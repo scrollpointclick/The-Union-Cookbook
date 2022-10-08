@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sear",
+				"searchFor"
+			],
+			[
+				"kara",
+				"karabinerText"
+			],
+			[
+				"karabi",
+				"karabinerText"
+			],
+			[
+				"iden",
+				"identifier"
+			],
+			[
+				"lSt",
+				"lStrippedArray"
+			],
+			[
+				"get",
+				"getAppID"
+			],
+			[
+				"key",
+				"keyValIndex"
+			],
+			[
+				"clean",
+				"cleanItemsArray"
+			],
+			[
+				"clea",
+				"cleanItemsArray"
+			],
+			[
+				"Studen",
+				"Student"
+			],
+			[
+				"if",
+				"if:false"
+			],
+			[
+				"Safari",
+				"path to:Safari"
+			],
+			[
+				"try",
+				"tell:Dictionary"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AppleScript Extensions/AppleScript.sublime-build",
+					""
+				],
+				[
+					"Packages/AppleScript Extensions/AppleScript.sublime-build",
+					"Script bundle"
+				],
+				[
+					"Packages/AppleScript Extensions/AppleScript.sublime-build",
+					"Application"
+				],
+				[
+					"Packages/AppleScript Extensions/AppleScript.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/AppleScript Extensions/AppleScript.sublime-build",
+				"Script bundle"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"view pa",
+				"View Package File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rmove",
+				"Package Control: Remove Package"
+			],
+			[
+				"neovintage",
+				"NeoVintageous: Toggle CTRL keys"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Eden"
+	],
+	"file_history":
+	[
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Eden/docs/intro.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Eden/docs/tutorial-extras/_category_.json",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Eden/docs/tutorial-basics/_category_.json",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Eden/docs/Knowledge Hub.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/Nreal.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/Command Line/Bash.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/Command Line/_category_.json",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/Health/Exercise.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/Health/_category_.json",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/Language/English.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/Websites/Worrydream.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/Steam Deck/Plugins.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/Steam Deck/Emulation.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/Documentaries.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/Music/Performance/_category_.json",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docusaurus.config.js",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/Music/_category_.json",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Goku/karabiner.edn",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/macOS/Haazel.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/Automation/Hazel.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/macOS/_category_.json",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/02-Automation/02-Keyboard Maestro.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/02-Automation/01-Hazel.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/02-Automation/00-Hazel.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/docs/intro.md",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Digital-Garden/src/pages/index.js",
+		"/Users/aaronrodgers/my-website/src/components/HomepageFeatures/index.js",
+		"/Users/aaronrodgers/Desktop/testJSON",
+		"/Users/aaronrodgers/Library/Mobile Documents/com~apple~CloudDocs/0_AR File System/2. Code/240. Swift/245. Useful Data/schedule.html",
+		"/Users/aaronrodgers/Documents/Shared Playground Data/primitive.obj",
+		"/Users/aaronrodgers/_aaronOS/src/Git/Explora/resources",
+		"/Users/aaronrodgers/Library/Containers/at.EternalStorms.Yoink-setapp/Data/Documents/YoinkPromisedFiles/yoinkFilePromiseCreationFolder099508A2-B906-47B7-9452-738227581207/add099508A2-B906-47B7-9452-738227581207/istockphoto-1303567646-170667a.jpg",
+		"/Users/aaronrodgers/Library/Mobile Documents/com~apple~CloudDocs/0_AR File System/2. Code/230. Python/232. Python 3/232.1. Projects/Karabiner Parser/Karabiner Parser.py",
+		"/Users/aaronrodgers/Library/Mobile Documents/com~apple~CloudDocs/0_AR File System/2. Code/230. Python/232. Python 3/232.1. Projects/testson.py",
+		"/Users/aaronrodgers/Library/Mobile Documents/com~apple~CloudDocs/0_AR File System/2. Code/230. Python/232. Python 3/232.1. Projects/karbinerTest.py",
+		"/Users/aaronrodgers/Library/Application Support/Sublime Text/Packages/Python/Python.sublime-build",
+		"/Users/aaronrodgers/Library/Mobile Documents/com~apple~CloudDocs/Mackup/Library/Application Support/Sublime Text/Packages/User/Interactive Python3.sublime-build",
+		"/Users/aaronrodgers/Library/Mobile Documents/com~apple~CloudDocs/0_AR File System/2. Code/230. Python/232. Projects/steampie.py",
+		"/Users/aaronrodgers/Documents/dictionaryapi.py",
+		"/Users/aaronrodgers/Documents/moretest.py",
+		"/Users/aaronrodgers/Documents/song.py",
+		"/Users/aaronrodgers/Library/Application Support/Sublime Text/Packages/Python 3/Python3.sublime-build",
+		"/Users/aaronrodgers/Documents/SublimeTest.applescript",
+		"/Users/aaronrodgers/Documents/StudentsPY.py",
+		"/Users/aaronrodgers/Library/Application Support/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/Users/aaronrodgers/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/aaronrodgers/_aaronOS/src/Git/Digital-Eden"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 273.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
